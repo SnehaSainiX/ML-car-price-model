@@ -28,12 +28,6 @@ This machine learning project predicts the resale price of used cars based on fe
 - Decision Tree Regressor
 - XGBoost (if used)
 
-The model is evaluated using metrics like:
-- Mean Absolute Error (MAE)
-- Root Mean Squared Error (RMSE)
-- R² Score
-
----
 
 ## 🛠️ Tools & Technologies Used
 
